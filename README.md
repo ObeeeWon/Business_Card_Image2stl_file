@@ -1,4 +1,4 @@
-# Card→STL Generator — Fung-AI Studio
+# Business Card image→STL Generator — Fung-AI Studio
 
 Business card image → 3D-printable STL file.  
 Encapsulates all 9 iterations of refinement developed in the project.
